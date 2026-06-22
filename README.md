@@ -1,2 +1,2 @@
-# LSTM_MPC-Volt_Var-Control
+# LSTM-MPC-VAR-BESS-Coordination
 Predictive Coordinated Volt-VAR and BESS Dispatch  for LV Voltage Regulation under High PV Penetration
